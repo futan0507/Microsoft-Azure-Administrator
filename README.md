@@ -41,7 +41,8 @@
 <p>● Enhance your service availability and data locality by using Azure Traffic Manager
 
 <strong>Module 7: Azure Storage
-<p>● Create an Azure Storage account ● Secure your Azure Storage ● Optimize storage performance and costs using Blob storage tiers
+<p>● Create an Azure Storage account ● Secure your Azure Storage 
+<p>● Optimize storage performance and costs using Blob storage tiers
 <p>● Make your application storage highly available with read-access geo-redundant storage
 <p>● Copy and move blobs from one container or storage account to another from the command line and in code
 <p>● Move large amounts of data to the cloud by using Azure Data Box family
