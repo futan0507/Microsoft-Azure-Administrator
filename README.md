@@ -29,18 +29,18 @@
 <p>● Design an IP addressing schema for your Azure deployment</p>
 <p>● Secure and isolate access to Azure resources by using network security groups and service endpoints</p>
 
-<strong>Module 5: Intersite Connectivity
+<strong>Module 5: Intersite Connectivity</strong>
 <p>Distribute your services across Azure virtual networks and integrate them by using virtual network peering
 <p>● Connect your on-premises network to Azure with VPN Gateway
 <p>● Connect your on-premises network to the Microsoft global network by using ExpressRoute
 
-<strong>Module 6: Network Traffic Management
+<strong>Module 6: Network Traffic Management</strong>
 <p>● Manage and control traffic flow in your Azure deployment with routes
 <p>● Improve application scalability and resiliency by using Azure Load Balancer
 <p>● Load balance your web service traffic with Application Gateway
 <p>● Enhance your service availability and data locality by using Azure Traffic Manager
 
-<strong>Module 7: Azure Storage
+<strong>Module 7: Azure Storage</strong>
 <p>● Create an Azure Storage account ● Secure your Azure Storage 
 <p>● Optimize storage performance and costs using Blob storage tiers
 <p>● Make your application storage highly available with read-access geo-redundant storage
@@ -48,14 +48,14 @@
 <p>● Move large amounts of data to the cloud by using Azure Data Box family
 <p>● Monitor, diagnose, and troubleshoot your Azure storage
 
-<strong>Module 8: Azure Virtual Machines
+<strong>Module 8: Azure Virtual Machines</strong>
 <p>● Build a scalable application with virtual machine scale sets
 <p>● Deploy Azure virtual machines from VHD templates
 <p>● Choose the right disk storage for your virtual machine workload
 <p>● Add and size disks in Azure virtual machines
 <p>● Protect your virtual machine settings with Azure Automation State Configuration
 
-<strong>Module 9: Serverless Computing
+<strong>Module 9: Serverless Computing</strong>
 <p>● Host a web application with Azure App service
 <p>● Stage a web app deployment for testing and rollback by using App Service deployment slots
 <p>● Scale an App Service web app to efficiently meet demand with App Service scale up and scale out
@@ -64,13 +64,13 @@
 <p>● Run Docker containers with Azure Container Instances
 <p>● Introduction to the Azure Kubernetes Service
 
-<strong>Module 10: Data Protection
+<strong>Module 10: Data Protection</strong>
 <p>● Protect your virtual machines by using Azure Backup
 <p>● Back up and restore your Azure SQL database
 <p>● Protect your Azure infrastructure with Azure Site Recovery
 <p>● Protect your on-premises infrastructure from disasters with Azure Site Recovery
 
-<strong>Module 11: Monitoring
+<strong>Module 11: Monitoring</strong>
 <p>● Analyze your Azure infrastructure by using Azure Monitor logs
 <p>● Improve incident response with alerting on Azure
 <p>● Monitor the health of your Azure virtual machine by collecting and analyzing diagnostic data
